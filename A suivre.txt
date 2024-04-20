@@ -1,0 +1,6 @@
+Décompresser le fichier test.zip
+Ouvrire le fichier dans Vscode
+Lancez XAMPP.
+Ajoutez le fichier teste.sql à votre phpMyAdmin pour créer la base de données.
+Ensuite, il vous suffit d'ajouter ce lien dans votre navigateur : http://localhost/Teste/index.php
+
